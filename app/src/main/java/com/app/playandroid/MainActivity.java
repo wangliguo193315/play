@@ -15,6 +15,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initData() {
-        ArrayList<Object> objects = new ArrayList<>();
+        ArrayList<String> objects = new ArrayList<>();
+        objects.add("闫勇杰");
+        objects.add("闫勇杰");
+        objects.add("闫勇");
+
     }
 }
